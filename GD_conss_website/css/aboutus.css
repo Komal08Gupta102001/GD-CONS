@@ -1,6 +1,6 @@
 .about_details {
     padding-top: 30px;
-    margin-top: 5rem;
+    margin-top: 1rem;
 }
 
 .about_container1 img,
@@ -8,9 +8,11 @@
 .about_container2 img,
 .client img {
     bottom: 50%;
-    width: 90%;
-    height: auto;
+    width: 105%;
+    height: 449px;
     padding: 20px;
+    margin-top: 65px;
+}
 }
 
 .about_details h1 {
@@ -40,11 +42,15 @@
 .about_text3 {
     text-align: left;
     padding: 20px;
+    margin-left: 55px;
+    font-size: 19px;
 }
 
 .about_text2 {
-    text-align: right;
+    text-align: left;
     padding: 20px;
+    margin-left: 108px;
+    font-size: 19px;
 }
 
 .other_about_detail {
@@ -160,3 +166,20 @@
         margin: 0px 0px 20px 0px;
     }
 }
+
+.our_indor_project
+{
+    margin-left: 59px;
+    margin-top: -60px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.our_indor_project_name
+{
+    margin-top: 14px;
+    margin-left: 85px;
+    font-size: 19px;
+    font-weight: 600;
+}
+
