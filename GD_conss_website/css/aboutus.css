@@ -6,6 +6,7 @@
 .about_container1 img,
 .about_container3 img,
 .about_container2 img,
+.about_container4 img,
 .client img {
     bottom: 50%;
     width: 105%;
@@ -13,7 +14,14 @@
     padding: 20px;
     margin-top: 65px;
 }
+
+.about_container4 img
+{
+    width: 479px;
+    margin-left: 111px;
+    margin-top: 192px;
 }
+
 
 .about_details h1 {
     text-transform: uppercase;
@@ -46,7 +54,14 @@
     font-size: 19px;
 }
 
-.about_text2 {
+.about_text3
+{
+    margin-left: 126px;
+}
+
+.about_text2,
+.about_text4
+{
     text-align: left;
     padding: 20px;
     margin-left: 108px;
@@ -156,6 +171,7 @@
         height: 1rem;
     } */
     .about_text2,
+    .about_text4,
     .client {
         text-align: left;
     }
@@ -165,21 +181,16 @@
         border-right: none;
         margin: 0px 0px 20px 0px;
     }
+
 }
 
-.our_indor_project
+
+.about_container3
 {
-    margin-left: 59px;
-    margin-top: -60px;
-    font-size: 28px;
-    font-weight: bold;
+    margin-top: 43px;
 }
 
-.our_indor_project_name
+.about_container2
 {
-    margin-top: 14px;
-    margin-left: 85px;
-    font-size: 19px;
-    font-weight: 600;
+    margin-top: -58px;
 }
-

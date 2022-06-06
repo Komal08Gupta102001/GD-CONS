@@ -74,7 +74,7 @@ body {
     font-weight: bold;
 }
 
-.kbyte_footer {
+.gd_cons_footer {
     background: linear-gradient(-274.74deg, #FFECD7 9.5%, rgba(255, 236, 215, 0) 100.79%);
     padding: 5em 2em 1em 5em;
     border-top-left-radius: 15em;
@@ -105,15 +105,15 @@ body {
     box-shadow: 2.5px 4.33px 15px 0px rgba(254, 176, 0, 0.4);
 }
 
-.kbyte_footer .footer_link a,
-.kbyte_footer .footer_contact a {
+.gd_cons_footer .footer_link a,
+.gd_cons_footer .footer_contact a {
     color: #7d7d7d;
     text-decoration: none;
     font-weight: bold;
 }
 
-.kbyte_footer .footer_link a:hover,
-.kbyte_footer .footer_contact a:hover {
+.gd_cons_footer .footer_link a:hover,
+.gd_cons_footer .footer_contact a:hover {
     color: #fba543;
     text-decoration: underline;
 }

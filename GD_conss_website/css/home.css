@@ -311,7 +311,9 @@
     }
 }
 
+
 .info
 {
-    margin-top: 62px
+    margin-top: 62px;
+    padding: 51px;
 }
