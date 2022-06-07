@@ -68,6 +68,11 @@
     font-size: 19px;
 }
 
+.anout_text4
+{
+    margin-left: 154px;
+}
+
 .other_about_detail {
     text-align: center;
 }
@@ -194,3 +199,9 @@
 {
     margin-top: -58px;
 }
+
+.footer_link
+{
+    padding-left: 94px;
+}
+
